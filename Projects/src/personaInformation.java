@@ -1,7 +1,6 @@
-
 import java.util.Scanner;
 
-public class personal_information {
+public class personaInformation {
     public static void main (String[] args) {
         Scanner sc = new Scanner(System.in);
 
