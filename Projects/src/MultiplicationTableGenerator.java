@@ -6,7 +6,11 @@ public class MultiplicationTableGenerator {
         System.out.println("Please enter the number: ");
 
         int number = input.nextInt();
-        
+        int i = 1;
+        while(i <=10){
+            System.out.println(i * number);
+            i++;
+        }
     }
 }
 
