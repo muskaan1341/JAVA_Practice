@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
-public class Student_grade {
+class Student_grade {
     public static void main (String[] agrs){
         Scanner sc = new Scanner(System.in);
         System.out.println("Enter the number of students");
